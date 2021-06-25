@@ -10,10 +10,7 @@
     "swagger",
     "codegen"
   ],
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/cyclosproject/ng-swagger-gen.git"
-  },
+  "repository": "https://github.com/Joe-Coffee/ng-swagger-gen",
   "dependencies": {
     "argparse": "^1.0.10",
     "global-agent": "^2.1.12",
